@@ -3,7 +3,7 @@ import React from 'react'
 const CodeSpace = () => {
      return (
      <>
-          <div className='bg-black pl-30 pt-16'>
+          <div className='bg-black pt-16 pl-'>
                <textarea name="codeSpace" id="codeSpace" className='h-[100%] w-[100%]'></textarea>
           </div>    
      </>
